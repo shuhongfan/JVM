@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JVMdachang210416.iml" filepath="$PROJECT_DIR$/JVMdachang210416.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter008_tuning/chapter008_tuning.iml" filepath="$PROJECT_DIR$/chapter008_tuning/chapter008_tuning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter01_bytecode/chapter01_bytecode.iml" filepath="$PROJECT_DIR$/chapter01_bytecode/chapter01_bytecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02_classload/chapter02_classload.iml" filepath="$PROJECT_DIR$/chapter02_classload/chapter02_classload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03_runtimearea/chapter03_runtimearea.iml" filepath="$PROJECT_DIR$/chapter03_runtimearea/chapter03_runtimearea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04_object/chapter04_object.iml" filepath="$PROJECT_DIR$/chapter04_object/chapter04_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05_executionengine/chapter05_executionengine.iml" filepath="$PROJECT_DIR$/chapter05_executionengine/chapter05_executionengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06_gc/chapter06_gc.iml" filepath="$PROJECT_DIR$/chapter06_gc/chapter06_gc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07_monitoring/chapter07_monitoring.iml" filepath="$PROJECT_DIR$/chapter07_monitoring/chapter07_monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatper08_tuning/chatper08_tuning.iml" filepath="$PROJECT_DIR$/chatper08_tuning/chatper08_tuning.iml" />
+    </modules>
+  </component>
+</project>
