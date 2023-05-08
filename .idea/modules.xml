@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JVMdachang210416.iml" filepath="$PROJECT_DIR$/JVMdachang210416.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter008_tuning/chapter008_tuning.iml" filepath="$PROJECT_DIR$/chapter008_tuning/chapter008_tuning.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter01_bytecode/chapter01_bytecode.iml" filepath="$PROJECT_DIR$/chapter01_bytecode/chapter01_bytecode.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter02_classload/chapter02_classload.iml" filepath="$PROJECT_DIR$/chapter02_classload/chapter02_classload.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter03_runtimearea/chapter03_runtimearea.iml" filepath="$PROJECT_DIR$/chapter03_runtimearea/chapter03_runtimearea.iml" />

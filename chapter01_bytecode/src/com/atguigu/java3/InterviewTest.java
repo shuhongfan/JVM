@@ -11,6 +11,6 @@ public class InterviewTest {
     public void test1(){
         Integer x = 128;
         int y = 128;
-        System.out.println(x == y);//true
+        System.out.println(x == y);//true，自动拆箱
     }
 }
